@@ -13,5 +13,7 @@ A number.
 test_fun
 }
 \examples{
+
 test_fun()
+
 }
